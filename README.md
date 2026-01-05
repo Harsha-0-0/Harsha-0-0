@@ -91,7 +91,7 @@ An iOS rehabilitation app designed to support faster, more confident recovery th
 - Developing strong communication and mentorship skills through client interactions
 
 📱 **iOS Developer** @ Apple Foundation Program *(November 2024)*
-- Built a SwiftUI-based iOS prototype in a cross-functional team of 5 members.
+- Built a SwiftUI-based iOS prototype in a cross-functional team of 5 members
 - Presented innovative solution to 50+ participants, receiving praise for intuitive UX design and problem-solving approach
 - Learned rapid prototyping techniques and collaborative design methodologies within time-constrained innovation sprints
 - Focused on creating accessible technology solutions for users with diverse needs
