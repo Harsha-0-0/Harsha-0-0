@@ -3,9 +3,8 @@
 ## 🚀 About Me
 I'm a passionate Software Engineer with expertise in backend development, web technologies, and iOS app development. I have a proven track record of developing RESTful services with Spring Boot, building dynamic UIs with Angular, and creating innovative mobile solutions with SwiftUI. 
 
-- 🔭 I'm currently working as an **Academic Tutor at UTS**
 - 🎓 I'm pursuing my **Master of Information Technology** at University of Technology Sydney
-- 🌱 I'm currently learning **iOS Development** and **Interactive Media**
+- 🌱 I'm currently learning **Game Development** and **Business Intelligence & Data Analytics**
 - 📫 How to reach me: **harshiismyname@gmail.com**
 - 🌏 Based in: **Sydney, Australia**
 - ⚡ Fun fact: **I speak 3 languages and I'm passionate about building sustainable tech solutions!**
