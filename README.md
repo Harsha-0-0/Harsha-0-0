@@ -36,12 +36,6 @@ I'm a passionate Software Engineer with expertise in backend development, web te
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harsha-0-0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha-0-0&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 
 ## 🔥 Streak Stats
 <div align="center">
