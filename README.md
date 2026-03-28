@@ -53,11 +53,6 @@ I'm a passionate Software Engineer with expertise in backend development, web te
   <img src="https://github-profile-trophy.vercel.app/?username=Harsha-0-0&theme=tokyonight&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
-## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsha-0-0&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
-</div>
-
 ## 🎯 Featured Projects
 
 ### 📱 [Style Mate](https://github.com/Harsha-0-0/Five-Stars)
