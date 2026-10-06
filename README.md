@@ -1,118 +1,150 @@
 # Hi there, I'm Harsha Varthini Maniraj 👋
 
-## 🚀 About Me
-I'm a passionate Software Engineer with expertise in backend development, web technologies, and iOS app development. I have a proven track record of developing RESTful services with Spring Boot, building dynamic UIs with Angular, and creating innovative mobile solutions with SwiftUI. 
+**Software Engineer · Sydney, NSW · Open to full-time roles**
 
-- 🎓 I'm pursuing my **Master of Information Technology** at University of Technology Sydney
-- 🌱 I'm currently learning **Game Development** and **Business Intelligence & Data Analytics**
-- 📫 How to reach me: **harshiismyname@gmail.com**
-- 🌏 Based in: **Sydney, Australia**
-- ⚡ Fun fact: **I speak 3 languages and I'm passionate about building sustainable tech solutions!**
+Full-stack engineer in Sydney. Java and Spring Boot on the back end, Angular and React on the front, and a habit of picking up whatever language the problem actually needs.
+
+### 🌐 [See the full portfolio →](https://harsha-0-0.github.io/Portfolio/)
+
+- 🎓 **Master of Information Technology**, University of Technology Sydney (Dean's List 2025 and 2026)
+- 💼 Currently a **Technical Intern at Outcomex**, an Australian systems integrator and Cisco Partner
+- 🧑‍🏫 I tutor **Programming on the Internet** and **Systems Testing & Quality Management** at UTS
+- 📫 Reach me at **harshiismyname@gmail.com**
+- 🛂 Full Australian working rights, no visa sponsorship required
+- ⚡ Fun fact: I speak three languages and I build things that outlive the assignment
 
 ## 🛠️ Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=Swift&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 
 ### Frontend & Mobile
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-000000?style=flat-square&logo=Swift&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 
 ### Backend & Frameworks
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST%20API-02569B?style=flat-square&logo=REST&logoColor=white)
 
-### Databases & Tools
+### Databases, Tools & Platforms
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
-
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 ## 🎯 Featured Projects
 
-### 📱 [Style Mate](https://github.com/Harsha-0-0/Five-Stars)
-A sustainable fashion iOS app that helps users maximize their existing wardrobe. Built with SwiftUI, it promotes eco-conscious fashion choices while keeping users stylish.
-- **Tech Stack**: SwiftUI, iOS, Sustainability Focus
-- **Impact**: Promoting sustainable fashion through technology
+### 🧠 [The Misinformation Lab](https://github.com/Harsha-0-0/The-Misinformation-Lab)
+A media-literacy simulation that teaches by role reversal: you get tested on spotting fake posts, then run your own misinformation campaign, then get shown the connection. Entirely client-side, no login, 88 KB gzipped, with a rule-based AI strategist that has governance and refusal rules baked in.
+- **Tech**: React, Vite, Zustand, JavaScript
+- **Context**: IEEE Metaverse Grand Challenge 2026
+
+### ☕ [Cap It Hot](https://github.com/Harsha-0-0/Computer-Game-Design-Digital-Game)
+A café-themed platformer where you play a mug trying to finish an order before it goes cold. Custom C# gameplay logic, collision systems and level progression, plus a temperature mechanic that turns "don't touch the ice block" into a real design constraint.
+- **Tech**: Unity, C#, ShaderLab, HLSL
+
+### 👕 [Style Mate](https://github.com/Harsha-0-0/Five-Stars)
+An iOS app that fights fast fashion by making your existing wardrobe more interesting. Digitise what you own, categorise by type, colour and season, then let the mix-and-match engine generate outfits for the occasion.
+- **Tech**: Swift, SwiftUI, iOS
+
+### 🏥 [Mobi](https://github.com/Harsha-0-0/Mobi)
+A rehabilitation app for the fortnight between physio appointments. Log each prescribed exercise set by set, rate pain and difficulty as you go, and leave notes your physio can actually use. I built the logging half: the exercise record model, home screen, log list and detail view.
+- **Tech**: Swift, SwiftUI, iOS
 
 ### 🎓 [Student Enrolment System](https://github.com/Harsha-0-0/Enrolment-System)
-A Python-based application that streamlines course registration and student data management. Simplifies administrative tasks with efficient enrollment tracking.
-- **Tech Stack**: Python, Database Management
-- **Features**: Course registration, student data management, administrative tools
+Student registration, subject creation and enrolment, built once with the logic properly separated, then exposed through both a CLI and a Tkinter GUI. Separate student and admin subsystems, Pydantic models over a JSON store, and validation that actually refuses a bad email.
+- **Tech**: Python, Tkinter, Pydantic, JSON
 
-### 🏥 [Mobi - Personalized Rehab App](https://github.com/Harsha-0-0/Mobi)
-An iOS rehabilitation app designed to support faster, more confident recovery through tech-enabled guidance and progress tracking.
-- **Tech Stack**: SwiftUI, iOS, Healthcare Tech
-- **Impact**: Empowering users with personalized rehabilitation support
+### 🏨 [Hospital Management System](https://github.com/Harsha-0-0/Hospital-Management-System)
+Role-based access done properly, in a console: genuinely separate menus and permissions for Patients, Doctors and Administrators, with appointment booking, record management and JSON-backed persistence that survives a restart.
+- **Tech**: C#, .NET, JSON
 
 ## 💼 Professional Experience
 
-🎓 **Academic Tutor** @ University of Technology Sydney *(March 2025 - Present)*
-- Teaching "Programming on the Internet" focused on web technologies like PHP, MySQL, JavaScript, and AJAX
-- Delivering in-person lab support to undergraduate students with hands-on coding and problem-solving guidance
-- Assisting students in debugging code, understanding asynchronous programming, and building dynamic web applications
-- Marking and providing detailed feedback on assignments for 100+ students per semester
+🛠️ **Technical Intern** @ Outcomex *(June 2026 - Present)*
 
-💻 **Web Developer** @ Pass To Me *(February 2025 - Present)*  
-- Revamping Squarespace website to improve mobile responsiveness and accessibility standards
-- Integrating new content and features to expand platform reach and enhance user experience
-- Translating complex technical concepts into accessible guidance for stakeholders
-- Developing strong communication and mentorship skills through client interactions
+Contributing across engineering, AI innovation and customer-facing operations at an Australian systems integrator and Cisco Partner delivering enterprise networking, cyber security, cloud and collaboration solutions.
+
+*Delivery & innovation*
+- Designed and built an internal delivery observability dashboard from the ground up, turning scattered project data into real-time RAG status visibility for stakeholders
+- Created an end-to-end process flowchart in Miro for the managed services team, standardising how monthly customer reports are produced
+
+*Customer & pre-sales enablement*
+- Authored internal engagement guides equipping the pre-sales team with sharper conversations ahead of customer calls
+- Participated in an outbound sales development initiative supporting business growth
+- Shadowed senior engineers and account teams across live customer and vendor meetings, building first-hand insight into how end-to-end IT solutions are scoped, designed and delivered
+
+*Operations & delivery excellence*
+- Operated within an agile delivery model, taking part in daily stand-ups across multiple concurrent project teams
+- Translated horizon-scanning research on emerging technologies into practical, business-relevant use cases
+
+🎓 **Academic Tutor** @ University of Technology Sydney *(March 2025 - Present)*
+- Teach Programming on the Internet and Systems Testing & Quality Management, translating technical concepts into explanations undergraduates actually follow
+- Deliver in-person lab support with hands-on coding and debugging guidance
+- Mark and give detailed feedback on assignments for 100+ students per semester
+
+💻 **Web Developer** @ Pass To Me *(February 2025 - Present)*
+- Revamped the organisation's Squarespace site, improving mobile responsiveness, accessibility and navigation
+- Integrated new content and features to expand platform reach
 
 📱 **iOS Developer** @ Apple Foundation Program *(November 2024)*
-- Built a SwiftUI-based iOS prototype in a cross-functional team of 5 members
-- Presented innovative solution to 50+ participants, receiving praise for intuitive UX design and problem-solving approach
-- Learned rapid prototyping techniques and collaborative design methodologies within time-constrained innovation sprints
-- Focused on creating accessible technology solutions for users with diverse needs
+- Designed and built a SwiftUI iOS prototype in a cross-functional team of five, presenting to an audience of 50+
+- Learned rapid prototyping and collaborative design inside a time-constrained innovation sprint
 
 ⚙️ **Senior Systems Associate** @ Infosys *(December 2021 - June 2023)*
-- Developed RESTful backend services using Spring Boot and created dynamic user interfaces in Angular across 6+ agile sprints
-- Collaborated with Salesforce systems to enhance CRM integration accuracy and overall system performance
-- Conducted extensive testing cycles and successfully resolved 98% of reported bugs before production deployment
-- Contributed to collaborative, fast-paced team environment with emphasis on clean code practices and iterative delivery
-- Worked closely with cross-functional teams to deliver high-quality software solutions on schedule
+- Developed and maintained enterprise web applications in Java, Spring Boot, Angular and REST APIs across the full SDLC
+- Investigated production defects and performed root cause analysis with cross-functional teams to deliver reliable releases
+- Queried and validated customer data through SQL-based systems and Salesforce to support operational accuracy
+- Ran integration testing, code review and release support, using Git in Agile delivery environments
 
-## 🎓 Education & Achievements
+## 🎓 Education
 
-**🎓 Master of Information Technology** *(July 2024 - June 2026)*  
-University of Technology Sydney, Australia
+**Master of Information Technology** *(July 2024 - May 2026)*  
+University of Technology Sydney, Australia. Dean's List 2025 & 2026.
 
-**🎓 Bachelor of Science: Information Technology and Management** *(June 2018 - June 2021)*  
-Lady Doak College, India
+**Bachelor of Science, Information Technology and Management** *(June 2018 - June 2021)*  
+Lady Doak College, Madurai, India
 
-**🏆 Certificate of Recognition** *(June 2021)*  
-Recognized for Analytical Thinking, Creativity, Interpersonal Skills, Perseverance, Proactivity, and Team Spirit
+## 🏆 Achievements
+
+- **International Workshop on AI Strategy** *(April 2026)*: selected to represent UTS at Poznan University of Technology, Poland, analysing real-world business cases in globally mixed teams
+- **Dean's List** *(2025 & 2026)*: recognised in both years of the Master of Information Technology at UTS
+- **Certificate of Recognition** *(2021)*: awarded for analytical thinking, creativity, interpersonal skills, perseverance, proactivity and team spirit
 
 ## 🌐 Languages
-- **English & Tamil**: Native/Bilingual
+- **English**: Fluent
+- **Tamil**: Fluent
 - **Korean**: Intermediate
 
 ## 🤝 Let's Connect!
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://in.linkedin.com/in/harsha-varthini-maniraj-434a94209)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Harsha-0-0)
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://harsha-0-0.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/harsha-varthini-maniraj-434a94209)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:harshiismyname@gmail.com)
 
 </div>
 
-
 ---
 
 <div align="center">
-  
+
 **"I am learning and growing everyday, becoming the best version of myself"**
-
-
 
 </div>
