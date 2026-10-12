@@ -79,6 +79,16 @@ Student registration, subject creation and enrolment, built once with the logic 
 Role-based access done properly, in a console: genuinely separate menus and permissions for Patients, Doctors and Administrators, with appointment booking, record management and JSON-backed persistence that survives a restart.
 - **Tech**: C#, .NET, JSON
 
+### 📊 [Business Intelligence Coursework](https://github.com/Harsha-0-0/business-intelligence-coursework)
+Three ways of turning a dataset into a decision. An Excel dashboard over 242 Starbucks beverages in 9 categories, with formula-driven KPIs for calories, sugar, caffeine and fat. A data-storytelling report on 100 top-rated K-dramas from 2007 to 2024, grouped into five eras: ratings climbed from 7.9 to 8.7, while viewership peaked in the middle era rather than the most recent one. And a snowflake-schema warehouse design for a fictional film platform, covering profiling, extraction, cleansing and incremental loading.
+- **Tech**: Excel, SQL, Python, Miro
+- **Context**: UTS 32558 Business Intelligence. The warehouse piece is a design document rather than a built system
+
+### 🚀 [Applied Data Science Capstone](https://github.com/Harsha-0-0/Applied-Data-Science-Capstone)
+Predicting whether a Falcon 9 first stage comes back. Launch records come in through the SpaceX REST API and a Wikipedia scrape, get cleaned with Pandas, then get interrogated with SQL and charts. Launch sites and outcomes go onto a Folium map, an interactive Plotly Dash app filters by site and payload, and four classifiers tuned with grid search are compared on the same held-out set.
+- **Tech**: Python, Pandas, SQL, scikit-learn, Plotly Dash, Folium
+- **Context**: IBM Skills Network capstone via Coursera
+
 ## 💼 Professional Experience
 
 🛠️ **Technical Intern** @ Outcomex *(June 2026 - Present)*
