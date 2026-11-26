@@ -2,7 +2,7 @@
 
 **Software Engineer · Sydney, NSW · Open to full-time roles**
 
-Full-stack engineer in Sydney. Java and Spring Boot on the back end, Angular and React on the front, and a habit of picking up whatever language the problem actually needs.
+I'm a full-stack software engineer in Sydney with wide experience across software development, from building features to resolving production issues. I have worked on enterprise systems, internal tools, and web, mobile, and AI projects.
 
 ### 🌐 [See the full portfolio →](https://harsha-0-0.github.io/Portfolio/)
 
