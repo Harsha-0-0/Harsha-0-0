@@ -2,7 +2,7 @@
 
 **Software Engineer · Sydney, NSW · Open to full-time roles**
 
-Full-stack engineer in Sydney. Java and Spring Boot on the back end, Angular and React on the front, and a habit of picking up whatever language the problem actually needs.
+Full-stack developer in Sydney. At Outcomex I built an internal delivery observability dashboard from nothing, no spec, and it replaced a manual reporting process with real time status people actually open. Before that, a year and a half of enterprise Java and Spring Boot at Infosys.
 
 ### 🌐 [See the full portfolio →](https://harsha-0-0.github.io/Portfolio/)
 
