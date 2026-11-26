@@ -6,7 +6,7 @@ I'm a full-stack software engineer in Sydney with wide experience across softwar
 
 ### 🌐 [See the full portfolio →](https://harsha-0-0.github.io/Portfolio/)
 
-- 🎓 **Master of Information Technology**, University of Technology Sydney (Dean's List 2025 and 2026)
+- 🎓 **Master of Information Technology**, University of Technology Sydney (GPA 6.94/7.0, Dean's List 2025 and 2026)
 - 💼 Currently a **Technical Intern at Outcomex**, an Australian systems integrator and Cisco Partner
 - 🏗️ 1.5 years of commercial experience at **Infosys** building enterprise web apps in Java, Spring Boot and Angular
 - 🧑‍🏫 I tutor **Programming on the Internet** and **Systems Testing & Quality Management** at UTS
@@ -37,8 +37,13 @@ I'm a full-stack software engineer in Sydney with wide experience across softwar
 
 ### Backend & Frameworks
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST%20API-02569B?style=flat-square&logo=REST&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Azure Functions](https://img.shields.io/badge/-Azure%20Functions-0062AD?style=flat-square&logo=azurefunctions&logoColor=white)
 
 ### Data & Analytics
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -54,6 +59,10 @@ I'm a full-stack software engineer in Sydney with wide experience across softwar
 
 ### Databases, Tools & Platforms
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![TestCafe](https://img.shields.io/badge/-TestCafe-36B6E5?style=flat-square&logoColor=white)
+![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
@@ -63,6 +72,11 @@ I'm a full-stack software engineer in Sydney with wide experience across softwar
 ![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 ## 🎯 Featured Projects
+
+### 📚 [TeachSmart](https://github.com/sum-kaur/teachsmart)
+An AI-powered curriculum resource finder for Australian teachers, built with a team at the Cambridge EduX Hackathon. A React and TypeScript front end sits over a Node and Express API, and search runs through a tiered LLM pipeline with a static fallback so the app still answers when the APIs do not.
+- **Tech**: React 19, Vite, TypeScript, Node.js, Express, LLM APIs
+- **Context**: Cambridge EduX Hackathon 2026, team project
 
 ### 🧠 [The Misinformation Lab](https://github.com/Harsha-0-0/The-Misinformation-Lab)
 A media-literacy simulation that teaches by role reversal: you get tested on spotting fake posts, then run your own misinformation campaign, then get shown the connection. Entirely client-side, no login, 88 KB gzipped, with a rule-based AI strategist that has governance and refusal rules baked in.
@@ -108,7 +122,8 @@ Predicting whether a Falcon 9 first stage comes back. Launch records come in thr
 Contributing across engineering, AI innovation and customer-facing operations at an Australian systems integrator and Cisco Partner delivering enterprise networking, cyber security, cloud and collaboration solutions.
 
 *Delivery & innovation*
-- Designed and built an internal delivery observability dashboard from the ground up, with no pre-existing specification, using serverless functions. It replaced a manual process and gave stakeholders real-time RAG status visibility
+- Identified a gap in project visibility and built an internal delivery dashboard from the ground up, with no pre-existing specification, using AI-assisted development and serverless API functions. It is now in use: it replaced a manual process and gives stakeholders real-time RAG status visibility
+- Release new versions of the dashboard as requirements change, and wrote the user guide and ran a live demo for its users
 - Building custom AI solutions for internal process improvements
 - Created an end-to-end process flowchart in Miro for the managed services team, standardising how monthly customer reports are produced
 
@@ -124,7 +139,7 @@ Contributing across engineering, AI innovation and customer-facing operations at
 
 🎓 **Academic Tutor** @ University of Technology Sydney *(March 2025 - Present)*
 - Teach Programming on the Internet and Systems Testing & Quality Management, translating technical concepts into explanations undergraduates actually follow
-- Deliver in-person lab support with hands-on coding and debugging guidance
+- Deliver in-person lab support on web applications and on automated testing with Selenium, TestCafe and Python
 - Help students get asynchronous programming to click and troubleshoot dynamic web applications
 - Mark and give detailed feedback on assignments for 100+ students per semester
 
@@ -133,8 +148,8 @@ Contributing across engineering, AI innovation and customer-facing operations at
 - Applied custom styling and layout changes for a cleaner, more modern interface, with content updates to improve usability and engagement
 
 🤝 **Peer Networker** @ University of Technology Sydney *(February 2025)*
-- Supported 100+ new students through Orientation, staffing help desks and resolving queries in real time
-- Led campus tours and guided students on facilities, resources and support services
+- Supported new students through Orientation, staffing help desks and resolving queries in real time
+- Led campus tours for large groups, helping manage crowds of up to 900 students per day, and guided students on facilities, resources and support services
 
 📱 **iOS Developer** @ Apple Foundation Program *(November 2024)*
 - Designed and built a SwiftUI iOS prototype in a cross-functional team of five, presenting to an audience of 50+
@@ -144,15 +159,15 @@ Contributing across engineering, AI innovation and customer-facing operations at
 - Developed and maintained enterprise web applications in Java, Spring Boot, Angular and REST APIs across the full SDLC
 - Integrated Angular front ends with Spring Boot REST APIs, keeping communication between application layers and backend services reliable
 - Gathered business requirements and translated them into technical designs, writing the functional specifications and design documentation
-- Investigated production defects and performed root cause analysis with cross-functional teams to deliver reliable releases
+- Investigated production defects using Splunk for log analysis and Jira for tracking, reproduced issues locally, performed root cause analysis and documented each resolution with screenshots on the ticket
 - Queried and validated customer data through SQL-based systems and Salesforce to support operational accuracy
 - Ran integration testing, code review and release support, using Git in Agile delivery environments
-- Produced technical documentation and contributed to knowledge-sharing across the team
+- Produced technical documentation and contributed to knowledge-sharing across the team, working in Agile teams alongside an onsite US team
 
 ## 🎓 Education
 
 **Master of Information Technology** *(July 2024 - May 2026)*  
-University of Technology Sydney, Australia. Dean's List 2025 & 2026.
+University of Technology Sydney, Australia. GPA 6.94/7.0. Dean's List 2025 & 2026.
 
 **Bachelor of Science, Information Technology and Management** *(June 2018 - June 2021)*  
 Lady Doak College, Madurai, India
