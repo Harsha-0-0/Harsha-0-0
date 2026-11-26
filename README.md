@@ -73,7 +73,7 @@ I'm a full-stack software engineer in Sydney with wide experience across softwar
 
 ## 🎯 Featured Projects
 
-### 📚 [TeachSmart](https://github.com/sum-kaur/teachsmart)
+### 📚 [TeachSmart](https://github.com/Harsha-0-0/TeachSmart)
 An AI-powered curriculum resource finder for Australian teachers, built with a team at the Cambridge EduX Hackathon. A React and TypeScript front end sits over a Node and Express API, and search runs through a tiered LLM pipeline with a static fallback so the app still answers when the APIs do not.
 - **Tech**: React 19, Vite, TypeScript, Node.js, Express, LLM APIs
 - **Context**: Cambridge EduX Hackathon 2026, team project
@@ -176,7 +176,6 @@ Lady Doak College, Madurai, India
 
 - **International Workshop on AI Strategy** *(April 2026)*: selected to represent UTS at Poznan University of Technology, Poland, analysing real-world business cases in globally mixed teams
 - **Dean's List** *(2025 & 2026)*: recognised in both years of the Master of Information Technology at UTS
-- **ServiceNow University Career Journeys** *(2026)*: currently working through the AI Application Developer and AI System Administrator journeys
 - **Certificate of Recognition** *(2021)*: awarded for analytical thinking, creativity, interpersonal skills, perseverance, proactivity and team spirit
 
 ## 🌐 Languages
